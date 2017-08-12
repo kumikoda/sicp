@@ -1,0 +1,11 @@
+#lang sicp
+
+; constant
+(define phi (/ (+1 (sqrt 5))))
+
+(define (fib3 n)
+  (phi ))
+
+(define (^ 
+
+
